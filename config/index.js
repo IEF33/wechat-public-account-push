@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wx3a38ce4ac1042a39",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "xNafrzXYESXHU87l_skHdAeAarF5Xy31aawfKHV7JFQ",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
